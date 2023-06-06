@@ -44,7 +44,7 @@
     "release": ". ./scripts/release.sh"
   },
   "peerDependencies": {
-    "vue3": "npm:vue@^3.2.31",
+    "vue3": "npm:vue@^3.2.31"
   },
   "devDependencies": {
     "@surmon-china/libundler": "^2.3.0",
